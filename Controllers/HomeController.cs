@@ -22,14 +22,14 @@ namespace LPChallenge.Controllers
 
         // Loading 'login' page
         [HttpGet]
-        [Route("")]
+        [Route("/")]
         public IActionResult Index()
         {
             return View();
         }
 
         [HttpPost]
-        [Route("")]
+        [Route("/")]
         public IActionResult Login(string password)
         {
             if(password == "123")
