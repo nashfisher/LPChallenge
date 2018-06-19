@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #Ignore these directories
 Migrations
 
 #Ignore these files
+=======
+/Migrations
+>>>>>>> 581958f4432d06ea727659cd4573c8f8a627649f
