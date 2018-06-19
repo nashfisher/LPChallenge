@@ -40,6 +40,7 @@ namespace LPChallenge.Controllers
                 _context.SaveChanges();
                 HttpContext.Session.SetInt32("BorderId", newBorder.Id);
 
+                // Directing user to Segment creation
                 return RedirectToAction("SegmentCreator");
             }
             else
