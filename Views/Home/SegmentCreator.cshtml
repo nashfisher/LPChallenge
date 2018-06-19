@@ -1,0 +1,31 @@
+@model LPChallenge.Models.SegmentViewModel;
+
+
+<div>
+    <h2>Border Generator</h2>
+    <h4>Add Segments</h4>
+    <div class="form">
+        <form asp-action="Create" asp-controller="Home">
+            <div class=".input-group">
+                <label asp-for="distance">Distance</label>
+                <input type="number" asp-for="distance" min="0">
+                <div class="error-message"<span asp-validation-for="distance"></span></div>
+            </div>
+            <div class=".input-group">
+                <label asp-for="feature">Feature</label>
+                <select asp-for="feature">
+                    <option value="">Select One</option>
+                    <option value="Cut">Cut</option>
+                    <option value="Mark">Mark</option>
+                    <option value="Notch">Notch</option>
+                    <option value="Ruffle">Ruffle</option>
+                </select>
+                <div class="error-message"<span asp-validation-for="feature"></span></div>
+            </div>
+            <input type="submit" value="Add Segment">
+        </form>
+        <form action="segment-test" method="POST">
+            <input type="submit" value="Finalize Border">
+        </form>
+    </div>
+</div>

@@ -1,0 +1,11 @@
+/Users/Nash/Desktop/LPChallenge/bin/Debug/netcoreapp2.0/LPChallenge.deps.json
+/Users/Nash/Desktop/LPChallenge/bin/Debug/netcoreapp2.0/LPChallenge.runtimeconfig.json
+/Users/Nash/Desktop/LPChallenge/bin/Debug/netcoreapp2.0/LPChallenge.runtimeconfig.dev.json
+/Users/Nash/Desktop/LPChallenge/bin/Debug/netcoreapp2.0/LPChallenge.dll
+/Users/Nash/Desktop/LPChallenge/bin/Debug/netcoreapp2.0/LPChallenge.pdb
+/Users/Nash/Desktop/LPChallenge/obj/Debug/netcoreapp2.0/LPChallenge.csprojResolveAssemblyReference.cache
+/Users/Nash/Desktop/LPChallenge/obj/Debug/netcoreapp2.0/LPChallenge.csproj.CoreCompileInputs.cache
+/Users/Nash/Desktop/LPChallenge/obj/Debug/netcoreapp2.0/LPChallenge.AssemblyInfoInputs.cache
+/Users/Nash/Desktop/LPChallenge/obj/Debug/netcoreapp2.0/LPChallenge.AssemblyInfo.cs
+/Users/Nash/Desktop/LPChallenge/obj/Debug/netcoreapp2.0/LPChallenge.dll
+/Users/Nash/Desktop/LPChallenge/obj/Debug/netcoreapp2.0/LPChallenge.pdb
